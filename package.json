@@ -1,0 +1,8 @@
+{
+  "name": "MinimalReactApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "khapeterk <khapeterk@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
