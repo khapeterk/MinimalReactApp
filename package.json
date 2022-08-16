@@ -13,6 +13,6 @@
     "react-dom": "^18.2.0"
   },
   "scripts": {
-    "start": "esbuild app.tsx --bundle --servedir=www/ --outdir=www/js"
+    "start": "esbuild app.jsx --bundle --servedir=www/ --outdir=www/js"
   }
 }
